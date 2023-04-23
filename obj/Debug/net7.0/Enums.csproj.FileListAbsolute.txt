@@ -1,0 +1,30 @@
+C:\Schüler\Markus\BlockWoche 2\Enums\obj\Debug\net7.0\Enums.csproj.AssemblyReference.cache
+C:\Schüler\Markus\BlockWoche 2\Enums\obj\Debug\net7.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Schüler\Markus\BlockWoche 2\Enums\obj\Debug\net7.0\Enums.AssemblyInfoInputs.cache
+C:\Schüler\Markus\BlockWoche 2\Enums\obj\Debug\net7.0\Enums.AssemblyInfo.cs
+C:\Schüler\Markus\BlockWoche 2\Enums\obj\Debug\net7.0\Enums.csproj.CoreCompileInputs.cache
+C:\Schüler\Markus\BlockWoche 2\Enums\bin\Debug\net7.0\Enums.exe
+C:\Schüler\Markus\BlockWoche 2\Enums\bin\Debug\net7.0\Enums.deps.json
+C:\Schüler\Markus\BlockWoche 2\Enums\bin\Debug\net7.0\Enums.runtimeconfig.json
+C:\Schüler\Markus\BlockWoche 2\Enums\bin\Debug\net7.0\Enums.dll
+C:\Schüler\Markus\BlockWoche 2\Enums\bin\Debug\net7.0\Enums.pdb
+C:\Schüler\Markus\BlockWoche 2\Enums\obj\Debug\net7.0\Enums.dll
+C:\Schüler\Markus\BlockWoche 2\Enums\obj\Debug\net7.0\refint\Enums.dll
+C:\Schüler\Markus\BlockWoche 2\Enums\obj\Debug\net7.0\Enums.pdb
+C:\Schüler\Markus\BlockWoche 2\Enums\obj\Debug\net7.0\Enums.genruntimeconfig.cache
+C:\Schüler\Markus\BlockWoche 2\Enums\obj\Debug\net7.0\ref\Enums.dll
+E:\Enums\bin\Debug\net7.0\Enums.exe
+E:\Enums\bin\Debug\net7.0\Enums.deps.json
+E:\Enums\bin\Debug\net7.0\Enums.runtimeconfig.json
+E:\Enums\bin\Debug\net7.0\Enums.dll
+E:\Enums\bin\Debug\net7.0\Enums.pdb
+E:\Enums\obj\Debug\net7.0\Enums.csproj.AssemblyReference.cache
+E:\Enums\obj\Debug\net7.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+E:\Enums\obj\Debug\net7.0\Enums.AssemblyInfoInputs.cache
+E:\Enums\obj\Debug\net7.0\Enums.AssemblyInfo.cs
+E:\Enums\obj\Debug\net7.0\Enums.csproj.CoreCompileInputs.cache
+E:\Enums\obj\Debug\net7.0\Enums.dll
+E:\Enums\obj\Debug\net7.0\refint\Enums.dll
+E:\Enums\obj\Debug\net7.0\Enums.pdb
+E:\Enums\obj\Debug\net7.0\Enums.genruntimeconfig.cache
+E:\Enums\obj\Debug\net7.0\ref\Enums.dll

@@ -1,0 +1,15 @@
+E:\Enums\bin\Debug\net7.0\RPSLS.exe
+E:\Enums\bin\Debug\net7.0\RPSLS.deps.json
+E:\Enums\bin\Debug\net7.0\RPSLS.runtimeconfig.json
+E:\Enums\bin\Debug\net7.0\RPSLS.dll
+E:\Enums\bin\Debug\net7.0\RPSLS.pdb
+E:\Enums\obj\Debug\net7.0\RPSLS.csproj.AssemblyReference.cache
+E:\Enums\obj\Debug\net7.0\RPSLS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Enums\obj\Debug\net7.0\RPSLS.AssemblyInfoInputs.cache
+E:\Enums\obj\Debug\net7.0\RPSLS.AssemblyInfo.cs
+E:\Enums\obj\Debug\net7.0\RPSLS.csproj.CoreCompileInputs.cache
+E:\Enums\obj\Debug\net7.0\RPSLS.dll
+E:\Enums\obj\Debug\net7.0\refint\RPSLS.dll
+E:\Enums\obj\Debug\net7.0\RPSLS.pdb
+E:\Enums\obj\Debug\net7.0\RPSLS.genruntimeconfig.cache
+E:\Enums\obj\Debug\net7.0\ref\RPSLS.dll
